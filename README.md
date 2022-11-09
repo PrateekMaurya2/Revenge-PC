@@ -1,3 +1,3 @@
 # Revenge-PC
-Revenge-PC is a program written for just education purpose. WARNING : Dangerous ,use at your own risk
+Revenge-PC is a program written just for education purpose. WARNING : Dangerous ,use at your own risk
 This program may cause loss of a lot of things
